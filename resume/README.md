@@ -7,7 +7,7 @@ Nationaliteit: Belg
 Burgerlijke staat: Celibaat
 Telefoonnummer: +32498603941
 E-mailadres: cypriaansacre@gmail.com
-[![foto]](https://lh6.googleusercontent.com/--yadB3soavk/AAAAAAAAAAI/AAAAAAAAAQg/FC7y-YZj4G4/photo.jpg)
+[![foto](https://lh6.googleusercontent.com/--yadB3soavk/AAAAAAAAAAI/AAAAAAAAAQg/FC7y-YZj4G4/photo.jpg)]<br>
 
 #Opleiding(en)
 Middelbaar Onderwijs: Economie - Talen (Voltooid)
